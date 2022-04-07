@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>Este es mi segundo Post</title>
+      <link>https://yonadabnp.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://yonadabnp.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Hey! Este es el contenido del nuevo post, es mi segunda entrada y espero quede bien!</description>
+    </item>
+    
+    <item>
       <title>About me</title>
       <link>https://yonadabnp.github.io/my_launchx_blog/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
